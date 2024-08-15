@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "185942237506",
+    "project_id": "jaqi-f1586",
+    "storage_bucket": "jaqi-f1586.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185942237506:android:39f34834088813455ea8db",
+        "android_client_info": {
+          "package_name": "com.aryalingga.jakartaairquality"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "185942237506-221lblcu58uvfb46irtkjp003nboifmk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aryalingga.jakartaairquality",
+            "certificate_hash": "783be5d9c4e9f608dc1a7cc6e68efd06e28ce4bf"
+          }
+        },
+        {
+          "client_id": "185942237506-0i7thkdpo091vcmu9o36j0o0c6m5n2hi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ7JkMGSm9N0mwjgt3f7g7Olr8FkMGibk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "185942237506-0i7thkdpo091vcmu9o36j0o0c6m5n2hi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

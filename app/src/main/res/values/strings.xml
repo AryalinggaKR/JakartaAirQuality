@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Jakarta Air Quality</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="menu_home">Home</string>
+    <string name="nav_header_title">Welcome</string>
+    <string name="nav_header_subtitle">Subtitle</string>
+    <string name="guest">Guest</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="popup_keterangan">Keterangan</string>
+    <string name="popup_ket">AQI (Air Quality Index) Level:\n0-50 \t= Good\n51-100 \t= Moderate\n101-150 = Unhealty for Sensitive Group\n151-200 = Unhealty\n201-300 = Very Unhealty\n300+ \t= Hazardous</string>
+    <string name="profile">Profile</string>
+    <string name="tips">Tips</string>
+    <string name="judultips">Tips Mengurangi Polusi Udara</string>
+    <string name="kembali">Kembali</string>
+    <string name="profile_picture">Profile Picture</string>
+    <string name="user_name">User Name</string>
+    <string name="user_email">Email</string>
+    <string name="splash_title">Title Splash</string>
+    <string name="splash_description">Splash Desc</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="splash_image_desc">Splash Img Desc</string>
+</resources>
